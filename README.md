@@ -7,13 +7,6 @@ Die Reihenfolge der Notebooks im Tutorial ist wie folgt:
 * 2_Bedingungen_Funktionen.ipynb
 * 3_Beispiel_Maschinelle_Übersetzung.ipynb
 
-Die verwendete Umgebung zur Bearbeitung der Beispiele ist:
-* Anaconda (https://www.anaconda.com/) und das Jupyter Notebook darin
-* spaCy (https://spacy.io/usage) für NLP
-* sklearn (https://scikit-learn.org/stable/) zur Termextraktion
-
-Um spaCy in Anaconda nutzen zu können, müssen Sie die Bibliothek installieren (siehe https://spacy.io/usage). Dazu muss der Befehl "pip" durch "conda" ersetzt werden (siehe "conda" Installationsanweisungen in spaCy). In den Colab-Notebooks ist der Installationsbefehl (pip install ...) schon vorhanden und muss nur ausgeführt werden. 
-
 ## Weiterführende Tutorials und Informationen 
 
 Weiterführende Workshops und Tutorials: 
