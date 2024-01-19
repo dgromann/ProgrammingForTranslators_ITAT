@@ -5,8 +5,7 @@ Diese Notebooks stellen praktische und interaktive Programmierübungen als erste
 Die Reihenfolge der Notebooks im Tutorial ist wie folgt: 
 * 1_ErsteSchritte.ipynb
 * 2_Bedingungen_Funktionen.ipynb
-* 3_Beispiel_NLP.ipynb
-* 4_Beispiel_Termextraktion.ipynb
+* 3_Beispiel_Maschinelle_Übersetzung.ipynb
 
 Die verwendete Umgebung zur Bearbeitung der Beispiele ist:
 * Anaconda (https://www.anaconda.com/) und das Jupyter Notebook darin
